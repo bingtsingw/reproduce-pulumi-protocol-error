@@ -5,7 +5,7 @@
         "@types/node": "^18.11.8"
     },
     "dependencies": {
-        "@pulumi/pulumi": "^3.45.0",
+        "@pulumi/pulumi": "3.35.2",
         "@pulumi/random": "^4.8.2"
     }
 }
