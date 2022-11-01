@@ -1,0 +1,11 @@
+{
+    "name": "pulumi-bug-replay",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18.11.8"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "^3.45.0",
+        "@pulumi/random": "^4.8.2"
+    }
+}

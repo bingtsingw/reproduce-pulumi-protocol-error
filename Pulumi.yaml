@@ -1,0 +1,3 @@
+name: pulumi-bug-replay
+runtime: nodejs
+description: A minimal AliCloud TypeScript Pulumi program
